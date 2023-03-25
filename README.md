@@ -29,4 +29,7 @@
 ## Contact info
 - Personal email: dangtrinh3006@gmail.com
 - Homepage: [www.nguyendangtrinh.me](https://www.nguyendangtrinh.me/)
+- Linkedin: [linkedin.com/in/DangTrinh36](https://www.linkedin.com/in/dangtrinh36)
+- Phone: 0834021123
+- Ho Chi Minh City
 
