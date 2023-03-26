@@ -10,6 +10,9 @@
         <a href="https://github.com/dangtrinh3006/ecommerce-thtruemilk.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=ecommerce-thtruemilk" alt="ecommerce-thtruemilk"/>
         </a>
+        <a href="https://github.com/dangtrinh3006/food_ecommerce_v2.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=food_ecommerce_v2" alt="food_ecommerce_v2"/>
+        </a>
     </p>
 </div>
 
