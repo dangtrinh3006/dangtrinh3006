@@ -4,6 +4,15 @@
  - My goal is to become a professional DevOps developer.
  - I am living in Ho Chi Minh City.
 
+## My highlighted repositories
+<div>
+    <p>
+        <a href="https://github.com/dangtrinh3006/ecommerce-thtruemilk.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=ecommerce-thtruemilk" alt="ecommerce-thtruemilk"/>
+        </a>
+    </p>
+</div>
+
 
 ## Programming languages and tools
 <p align="left">
