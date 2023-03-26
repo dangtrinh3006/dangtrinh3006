@@ -1,4 +1,4 @@
-# Nguyễn Đăng Trình 
+# Nguyen Dang Trinh - Developer
 ## Bio
  - I am currently a final year student at Ton Duc Thang University. I have spent 4 years during my university time studying hard and improving my skills in Computer Science.
  - My goal is to become a professional DevOps developer.
