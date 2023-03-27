@@ -14,6 +14,17 @@
         <a href="https://github.com/dangtrinh3006/food_ecommerce_v2.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=food_ecommerce_v2" alt="food_ecommerce_v2"/>
         </a>
+        <a href="https://github.com/dangtrinh3006/e-wallet-app.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=e-wallet-app" alt="e-wallet-app"/>
+        </a>
+        <a href="https://github.com/dangtrinh3006/vehicle-maintenance-manager.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=vehicle-maintenance-manager" alt="vehicle-maintenance-manager"/>
+        </a>
+        <a href="https://github.com/dangtrinh3006/student-grade-management.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=student-grade-management" alt="student-grade-management"/>
+        <a href="https://github.com/dangtrinh3006/traffic-sign-recognition.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dangtrinh3006&repo=traffic-sign-recognition" alt="traffic-sign-recognition"/>
+        </a>
     </p>
 </div>
 
@@ -28,8 +39,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="PHP" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" height="30" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="Firebase" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="Firebase" height="30" width="40"/>
 </p>
