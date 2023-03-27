@@ -56,6 +56,9 @@
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtrinh3006&hide_progress=true)](https://github.com/dangtrinh3006/github-readme-stats)
+
+![dangtrinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangtrinh3006&show_icons=true)
 
 ## Social media profiles
 [![Gmail](https://img.shields.io/badge/dangtrinh3006-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dangtrinh3006@gmail.com)](mailto:dangtrinh3006@gmail.com)
@@ -67,8 +70,8 @@
 
 
 ## Contact info
-- Personal email: dangtrinh3006@gmail.com
-- Homepage: [www.nguyendangtrinh.me](https://www.nguyendangtrinh.me/)
+- `Personal email: dangtrinh3006@gmail.com`
+- `Homepage:` [www.nguyendangtrinh.me](https://www.nguyendangtrinh.me/)
 - `Phone: 0834-021-123`
 - `Ho Chi Minh City`
 
